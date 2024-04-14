@@ -15,6 +15,9 @@ This solution uses Python, Node.js, .NET, with Redis for messaging and Postgres 
 Run in this directory to build and run the app:
 
 docker compose up
+
+docker compose up -d(For detached mode)
+
 The vote app will be running at http://localhost:5000, and the results will be at http://localhost:5001.
 
   
