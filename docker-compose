@@ -27,4 +27,6 @@ docker compose up -d(For detached mode)
 
 The vote app will be running at http://localhost:5000, and the results will be at http://localhost:5001.
 
+docker ps to check the running containers.
+
   
